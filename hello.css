@@ -7,11 +7,12 @@ header {
 
 }
 body {
-    margin: 25px;
-    padding: 15px;
+    margin: 30px;
+    padding: 30px;
     font-family: 'Courier New', Courier, monospace;
     font-weight: bolder;
     font-size: 25px;
+    background-color: pink;
 }
 ol li, ul li{
     padding: 20px;
