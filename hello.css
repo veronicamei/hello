@@ -4,14 +4,20 @@ header {
     font-size: 40px;
     color: aliceblue;
     font-weight: bolder;
+    position: relative; 
 
 }
+
+#header {
+    padding: 15px;
+}
+
 body {
     margin: 25px;
     padding: 25px;
     font-family: 'Courier New', Courier, monospace;
     font-weight: bolder;
-    font-size: 25px;
+    font-size: 15px;
 }
 ol li, ul li{
     padding: 20px;
@@ -65,7 +71,6 @@ th {
 }
 
 .grid-item {
-    background-color: white;
     font-size: 20px;
     padding: 20px;
     text-align: center;
